@@ -1,0 +1,29 @@
+
+oghaegoaj@LPABISD009 MINGW64 ~
+$ mkdir DataScienceClass\
+
+oghaegoaj@LPABISD009 MINGW64 ~
+$ cd DataScienceClass\
+>
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass
+$ mkdir myfirstcode
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass
+$ git init
+Initialized empty Git repository in C:/Users/oghaegoaj/DataScienceClass/.git/
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass (master)
+$
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/oghaegoaj/DataScienceClass/.git/
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass (master)
+$ touch master.txt (can be master.xlsx)
+
+oghaegoaj@LPABISD009 MINGW64 ~/DataScienceClass (master)
+$ notepad master.txt (used to call it up)
+
+
